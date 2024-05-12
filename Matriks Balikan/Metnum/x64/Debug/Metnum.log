@@ -1,0 +1,4 @@
+﻿  Matriks balikan.cpp
+C:\Users\Nicolaus\source\repos\Metnum\Metnum\Matriks balikan.cpp(30,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nicolaus\source\repos\Metnum\Metnum\Matriks balikan.cpp(38,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Metnum.vcxproj -> C:\Users\Nicolaus\source\repos\Metnum\x64\Debug\Tugas Metode Numerik.exe
